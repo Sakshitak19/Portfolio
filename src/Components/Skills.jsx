@@ -1,4 +1,4 @@
-import { transform } from "framer-motion"
+import { motion } from "framer-motion"
 import {SKILLS} from "../constants"
 import { motion } from "framer-motion"
 
